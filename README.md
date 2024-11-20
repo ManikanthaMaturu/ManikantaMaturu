@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Manikantha Maturu**
+# Hi there! 👋 I'm **Manikanta Maturu**
 
 🎉 **Welcome to my GitHub profile!**  
 I am a **Python Developer** 🐍 passionate about building robust backend systems and aspiring to become a Fullstack Developer.  
