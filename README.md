@@ -9,7 +9,7 @@ I am a **Python Developer** 🐍 passionate about building robust backend system
 - 💼 **Current Role:** Backend Developer at **VivifyHealthcare Private Limited**  
 - 🌍 **Location:** Visakhapatnam, Andhra Pradesh, India  
 - 📫 **Email:** [manikantamatru438@gmail.com](mailto:manikantamatru438@gmail.com)  
-- 🌟 **Experience:** 3 years in Python, Django, and REST frameworks  
+- 🌟 **Experience:** 3+ years in Python, Django, and REST frameworks  
 
 ---
 
